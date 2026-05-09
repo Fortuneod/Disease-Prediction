@@ -112,4 +112,4 @@ For batch processing in `streamlit_app.py`, upload a CSV file containing the exa
 
 ## Contact
 
-This repository is designed as a research/demo application for multi-disease risk profiling using machine learning.
+This repository is designed as a research/demo application for multi-disease risk profiling using machine learning. For Collaboration, kindly reach out via fortuneodesanya@gmail.com
