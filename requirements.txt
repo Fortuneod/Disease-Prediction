@@ -1,0 +1,12 @@
+scikit-learn==1.8.0
+imbalanced-learn==0.14.1
+numpy==2.4.3
+joblib==1.5.3
+pandas==2.3.3
+fastapi==0.136.1
+streamlit==1.57.0
+shap==0.51.0
+matplotlib==3.10.8
+xgboost==3.2.0
+pydantic==2.13.4
+uvicorn==0.46.0
