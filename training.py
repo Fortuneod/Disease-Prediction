@@ -24,7 +24,7 @@ def run_training():
     print("=" * 60)
 
     print("Loading dataset...")
-    df = pd.read_csv('healthcare_dataset.csv')
+    df = pd.read_csv('healthcare_dataset_realistic.csv')
 
     print(f"\n[DATA] Loaded {df.shape[0]} patients, {df.shape[1]} columns")
     
